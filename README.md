@@ -48,4 +48,5 @@ Terrain, zoning, roads, transit, civic stamps, and the underlying grid and row/c
 **Notes**
 - Fonts (Overpass and Public Sans) load from Google Fonts. Without a connection the app falls back to system fonts.
 - Requires a current version of Chrome, Edge, Firefox or Safari.
+- I wanted to get the idea for this tool and its implementation out into the world, but I don't intend to actively maintain it. Forks and further experimentation are welcome; maybe someone will retool this for Cities Skylines 1, for example, adding additional stamps and other features based on its DLC and features.
 
