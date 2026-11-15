@@ -1,6 +1,6 @@
 # citygrid
 An HTML-based city plan designer, inspired by D&amp;D dungeon designers. Coded with Claude Fable 5.2.
-To use on your own computer, download index.html and then open with your browser.  The app opens with a sample city; press New for a blank plan. You can also download san-francisco.json and import the file to regenerate the sample map.
+To use on your own computer, download index.html and then open with your browser.  The app opens with a sample city; press New for a blank plan. You can also download san-francisco.json and import the file to regenerate the sample map (San-Francisco.png) for yourself.
 
 **Terrain background**
 Import a PNG, JPEG or WebP image to sit under the grid. Move it with the "Move the image" tool, and adjust its size and opacity with the sliders. The zoning opacity slider controls how much the zone colors cover it.
