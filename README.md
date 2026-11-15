@@ -3,7 +3,8 @@ An HTML-based city plan designer, inspired by D&amp;D dungeon designers. Coded w
 To use on your own computer, download index.html and then open with your browser.  The app opens with a sample city; press New for a blank plan. You can also download san-francisco.json and import the file to regenerate the sample map (San-Francisco.png) for yourself.
 
 **Terrain background**
-Import a PNG, JPEG or WebP image to sit under the grid. Move it with the "Move the image" tool, and adjust its size and opacity with the sliders. The zoning opacity slider controls how much the zone colors cover it.
+
+Import a PNG, JPEG or WebP image to sit under the grid. Square images will automatically resize to match the grid. Move it with the "Move the image" tool, and adjust its size/scale and opacity with the sliders. The zoning opacity slider controls how much the zone colors cover it.
 
 **Natural features and resources**
 - "Water body" and "Park / nature reserve" tools: draw a freehand outline and it closes into an area. Water is filled; a park is see-through with a thick green band inside its boundary. River or shoreline draws an open blue line that merges with any water body it meets. An outline of a body of water that starts and ends at the edge of the map is closed along the map border, so coastlines sit flush against the edge.
