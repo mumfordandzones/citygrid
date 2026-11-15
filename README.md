@@ -39,6 +39,7 @@ Undo and redo: the buttons, or Ctrl/Cmd+Z and Ctrl/Cmd+Shift+Z.
 - Tap a section heading in the tool tray to fold it away; the planner remembers which sections are open.
 
 **Layer tools**
+
 Terrain, zoning, roads, transit, civic stamps, and the underlying grid and row/column labels can all be shown or removed. 
 
 **Plans, saving and export**
