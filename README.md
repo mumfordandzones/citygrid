@@ -6,12 +6,11 @@ To use on your own computer, download index.html and then open with your browser
 Import a PNG, JPEG or WebP image to sit under the grid. Move it with the "Move the image" tool, and adjust its size and opacity with the sliders. The zoning opacity slider controls how much the zone colors cover it.
 
 **Natural features and resources**
-- Water body and Park / nature reserve: draw a freehand outline and it closes into an area. Water is filled; a park is see-through with a thick green band inside its boundary. River or shoreline draws an open blue line that merges with any water body it meets.
-- Land / island: draw an outline over water to cut that shape out of it, for an island or to push a shoreline back. Shapes apply in the order drawn, so drawing water over land floods it again.
-- An outline that starts and ends at the edge of the map is closed along the map border, so coastlines sit flush against the edge.
+- "Water body" and "Park / nature reserve" tools: draw a freehand outline and it closes into an area. Water is filled; a park is see-through with a thick green band inside its boundary. River or shoreline draws an open blue line that merges with any water body it meets. An outline of a body of water that starts and ends at the edge of the map is closed along the map border, so coastlines sit flush against the edge.
+- "Land / island": draw an outline over water to cut that shape out of it, for an island or to push a shoreline back. Shapes apply in the order drawn, so drawing water over land floods it again.
 - Resources (groundwater, farmland, forest, ore, oil): freehand regions shown as hatched overlays, each with its own pattern, so overlapping regions stay readable.
 - Water bodies and rivers sit beneath the zoning, so they show through unzoned tiles or when zoning opacity is lowered. Parks and nature reserves are drawn over the zoning, and resource regions over those.
-- Remove items using the "Erase a natural feature or resource area". 
+- Remove items using the "Erase a natural feature or resource area" tool. 
 - Natural features and resources are in a single display layer, with show/hide toggles for each one and an opacity slider which covers both.
 
 **Zoning**
@@ -37,6 +36,9 @@ Import a PNG, JPEG or WebP image to sit under the grid. Move it with the "Move t
 Undo and redo: the buttons, or Ctrl/Cmd+Z and Ctrl/Cmd+Shift+Z.
 - Zoom with pinch, the scroll wheel or the + and − buttons. Pan with right-click and drag; with two fingers, the Pan button in the top bar, or by holding Space and dragging.
 - Tap a section heading in the tool tray to fold it away; the planner remembers which sections are open.
+
+**Layer tools**
+Terrain, zoning, roads, transit, civic stamps, and the underlying grid and row/column labels can all be shown or removed. 
 
 **Plans, saving and export**
 - Plans are stored in the browser on the device you are using. You can keep several named plans. Rename the open plan in the top bar; open, duplicate or delete plans under Plans. Clearing browser data removes your plans, and they are not shared between devices or people.
